@@ -198,7 +198,7 @@ No external backend setup is required.
 
 Add your demo video link (maximum 3 minutes):
 
-https://your-demo-video-link.com
+https://drive.google.com/file/d/1xWLXf-hce5dHYYK_R-LD2wsU0cMJVLqO/view?usp=sharing
 
 
 
